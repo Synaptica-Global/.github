@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/XIEM-Trade%20Compliance%20%26%20Procurement-1a3a6b?style=for-the-badge&labelColor=0a1628" alt="XIEM Platform"/>
 
-# Synaptica Global
+# XIEM - Power By Synaptica Group
 
 **AI-powered Trade Compliance & Procurement Platform for the GCC**
 
